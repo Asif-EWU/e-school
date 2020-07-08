@@ -110,3 +110,14 @@ footer .copyright {
     text-align: center;
     margin-bottom: 0;
 }
+
+#online-courses .card-footer img {
+    width: 20px;
+    height: 20px;
+}
+
+#online-courses .card-footer {
+    border-top: none;
+    background: none;
+    padding: 10px 40px 0;
+}
