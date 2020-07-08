@@ -76,3 +76,32 @@ header {
     box-shadow: 10px 10px 15px grey;
     transform: scale(1.02);
 }
+
+.card {
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px lightgrey;
+}
+
+#testimonial img {
+    width: 25%;
+}
+
+footer {
+    background-color: rgb(40, 37, 49);
+    color: rgb(247, 247, 247);
+    font-size: 13px;
+    padding-top: 30px;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer .copyright {
+    color: lightgrey;
+    text-align: center;
+    margin-bottom: 0;
+}
