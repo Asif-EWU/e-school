@@ -121,3 +121,8 @@ footer .copyright {
     background: none;
     padding: 10px 40px 0;
 }
+
+.copyright-name {
+    color: goldenrod;
+    margin-left: 10px;
+}
